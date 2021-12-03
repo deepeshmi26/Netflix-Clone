@@ -1,3 +1,5 @@
+Check the originally deployed website at https://netflix-clone-9ffd3.web.app/ . Deployed using firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
